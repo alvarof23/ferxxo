@@ -125,12 +125,13 @@ main {
   margin: 20px;
 }
 
-/* Sección de Nosotros */
-.Nosotros {
-  width: 45%;
+h2 {
+  margin-bottom: 10px;
+  font-size: 1.5rem;
 }
 
-/* Sección de Resto */
+/* Sección de Nosotros */
+.Nosotros,
 .resto {
   width: 45%;
 }
